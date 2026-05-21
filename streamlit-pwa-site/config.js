@@ -7,7 +7,7 @@ const CONFIG = {
     appShortName: "MyApp",
     
     // Iframe Config
-    iframeUrl: "https://doc-hello.streamlit.app?embed=true&show_footer=false",
+    iframeUrl: "https://alleopatia.streamlit.app/",
     
     // Visuals & Icons
     themeColor: "#0E1117",
