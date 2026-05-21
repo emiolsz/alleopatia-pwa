@@ -3,8 +3,8 @@ const CONFIG = {
     cacheVersion: "v1",
 
     // General App Info
-    appName: "My App",
-    appShortName: "MyApp",
+    appName: "Alleopatia",
+    appShortName: "Alleopatia",
     
     // Iframe Config
     iframeUrl: "https://alleopatia.streamlit.app/",
